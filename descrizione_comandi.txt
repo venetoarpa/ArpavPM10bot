@@ -1,0 +1,19 @@
+//Descrizione Bot:
+Visualizza i livelli di PM10 nell'aria, misurati attraverso le stazioni della rete Arpav.
+
+//About Bot:
+Visualizza i livelli di PM10 nell'aria, misurati attraverso le stazioni della rete Arpav.
+
+//Ordine alfabetico:
+help - Come usare il bot.
+iscrizioni - Mostra le stazioni a qui sei iscritto.
+nonseguire - Disiscriversi dalle notifiche di una stazione.
+posizione - Mostra la tua posizione.
+segui - Iscriversi alle notifiche di una stazione.
+seguikm - Iscriversi alle stazioni nel raggio indicato.
+seguitutte - Iscriversi a tutte le stazioni.
+start - Mostra il messaggio introduttivo.
+stazione - Mostra le informazioni sulla stazione.
+stazioni - Mostra l'elenco di tutte le stazioni.
+stazionikm - Mostra le stazioni nel raggio indicato.
+stop - Cancella la posizione e disiscrive dalle notifiche.
